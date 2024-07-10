@@ -10,7 +10,7 @@ Start by [installing the agent](https://www.sourceclear.com/docs/command-line-in
 Clone this project:
 
 ```sh
-git clone git@github.com:srcclr/example-java-gradle-android.git
+git clone git@github.com:srcclr/example-java-gradle-android.git 
 cd example-java-gradle-android
 ```
 
